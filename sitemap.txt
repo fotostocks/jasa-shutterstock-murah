@@ -1,6 +1,2 @@
 https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/jasa-beli-shutterstock.html
-https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/index.md
-https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/jasa-beli-shutterstock.txt
-https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/jasa-download-shutterstock.txt
-https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/jasa-shutterstock-instagram.txt
-https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/README.md
+https://raw.githubusercontent.com/fotostocks/jasa-shutterstock-murah/main/jasa-shutterstock-instagram.html
